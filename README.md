@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). This is an example of React JS project to display the data of random users fetched from an API.
 
 ## Available Scripts
 
